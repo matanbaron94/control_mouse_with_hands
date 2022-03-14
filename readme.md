@@ -1,4 +1,4 @@
-# Control mice using webcam
+# Control mouse using webcam
 
 
 Tested on
